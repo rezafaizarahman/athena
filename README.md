@@ -1,4 +1,4 @@
-# :construction: WIP :construction: Athena Jekyll Theme
+# Athina, a fork of Athena's Jekyll Theme
 
 A simple and elegant theme for Jekyll and GitHub Pages.
 
